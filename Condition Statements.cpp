@@ -26,6 +26,6 @@ int main()
     return 0;
 }
 
-/*Because we start counting from zero in array lists, and 5 is the 4th element, 
+/*Because we start counting from zero in array lists, and 5 is the 4thÂ element, 
 int list[n - 1] indicates that if the user inputs 5, this code will discover 
 the 4th(5 - 1) element of the code*/
